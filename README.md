@@ -5,8 +5,6 @@
 
 I’m looking for my next role in business systems, process improvement, or technology adoption. If your team needs someone who asks “why are we doing this manually?” and helps figure out a better way, let’s talk.
 
-“why are we doing this manually?” and helps figure out a better way, let’s talk.
-
 My favorite business requirement? “There has to be a better way.”
 
 I connect people, processes, and technology to make work easier and help teams get more from their tools.
