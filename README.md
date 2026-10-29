@@ -4,6 +4,9 @@
 ### Open to work. Already spotting things we could improve.
 
 I’m looking for my next role in business systems, process improvement, or technology adoption. If your team needs someone who asks “why are we doing this manually?” and helps figure out a better way, let’s talk.
+
+“why are we doing this manually?” and helps figure out a better way, let’s talk.
+
 My favorite business requirement? “There has to be a better way.”
 
 I connect people, processes, and technology to make work easier and help teams get more from their tools.
@@ -18,5 +21,5 @@ My background spans enterprise customer relationships, healthcare ERP software a
 - AI and automation experiments as I build them
 
 ### What drives my work
-Ask better questions. Untangle the process. Make the tools useful.## Hi there 👋
+Ask better questions. Untangle the process. Make the tools useful.
 
